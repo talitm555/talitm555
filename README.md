@@ -24,13 +24,17 @@
 Like this profile README? You can use it as a starting point for your own!
 
 ### 1. 🍴 Fork this repository
+
 **[👉 Fork `talitm555/talitm555`](https://github.com/talitm555/talitm555/fork)**
 
 ### 2. ✏️ Customize it
+
 Replace my name, bio, projects, links, skills, and other personal information with your own.
 
 ### 3. 🌐 Make it your profile
+
 Make sure the repository is:
+
 - 🌍 **Public**
 - 📛 Named exactly **your GitHub username**
 - 📄 Contains a `README.md`
@@ -50,6 +54,7 @@ You are free to **fork, modify, and use this template** for your own GitHub prof
 The MIT License applies to the **template/code**, not to my personal content.
 
 This includes, but is not limited to:
+
 - 👤 Personal name, bio, and information
 - 🖼️ Personal photos, avatars, and images
 - 🔗 Personal links and social profiles
@@ -61,5 +66,3 @@ Please replace my personal content with your own when creating your profile.
 **TL;DR:** Fork the template, make it yours, and replace my personal information with your own. 🚀
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=talitm555&icon=0&color=0)](https://visitcount.itsvg.in)
